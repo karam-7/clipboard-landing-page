@@ -210,7 +210,7 @@ body{
     gap: 2rem;
 }
 
-.five-h4{
+.five-h3{
     font-size: 2rem;
     color: hsl(210, 10%, 33%);
     font-family: 'Bai Jamjuree';
@@ -283,7 +283,7 @@ body{
     text-align: start;
 }
 
-.eight-h5{
+.eight-h3{
     font-size: 1.2rem;
     color:  hsl(201, 11%, 66%);
     font-family: 'Bai Jamjuree';
@@ -291,7 +291,7 @@ body{
     cursor: pointer;
 }
 
-.eight-h5:hover{
+.eight-h3:hover{
     color: hsl(171, 66%, 44%);
 }
 
@@ -410,7 +410,7 @@ body{
         text-align: center;
     }
 
-    .three-h3, .five-h4{
+    .three-h3, .five-h3{
         font-size: 1.5rem;
     }
 
